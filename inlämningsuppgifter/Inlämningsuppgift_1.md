@@ -1,4 +1,4 @@
-# 📝 Inlämningsuppgift – Vecka 1: Grundläggande PHP + Superglobals
+# 📝 Inlämningsuppgift – Grundläggande PHP + Superglobals
 
 ## 🎯 Uppgift: Skapa en interaktiv hälsningssida med felsökning
 
