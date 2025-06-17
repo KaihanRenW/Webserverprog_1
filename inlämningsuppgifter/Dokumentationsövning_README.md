@@ -36,4 +36,4 @@ Du kan använda punktform eller skriva som en löpande text. Tänk på att någo
 
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> It was really good exercise! Thanks <3 .
